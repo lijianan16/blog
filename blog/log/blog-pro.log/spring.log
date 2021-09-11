@@ -1,0 +1,38 @@
+2021-09-04 10:07:11.787  WARN 6654 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11h31m23s489ms).
+2021-09-04 10:36:47.025  WARN 6654 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m4s713ms).
+2021-09-04 12:38:32.744  WARN 6654 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h15s732ms).
+2021-09-04 14:43:16.029  WARN 6654 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h4m43s283ms).
+2021-09-04 17:47:28.592  INFO 18164 --- [restartedMain] com.lrm.blog.BlogApplication             : Starting BlogApplication using Java 1.8.0_211 on bogon with PID 18164 (/Users/li/blog/target/classes started by li in /Users/li/blog)
+2021-09-04 17:47:28.595  INFO 18164 --- [restartedMain] com.lrm.blog.BlogApplication             : The following profiles are active: pro
+2021-09-04 17:47:30.372  WARN 18164 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-09-04 17:47:30.731  WARN 18164 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-04 17:47:31.067  INFO 18164 --- [restartedMain] com.lrm.blog.BlogApplication             : Started BlogApplication in 2.924 seconds (JVM running for 3.582)
+2021-09-04 17:48:11.780  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : Starting BlogApplication using Java 1.8.0_211 on bogon with PID 18198 (/Users/li/blog/target/classes started by li in /Users/li/blog)
+2021-09-04 17:48:11.781  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : The following profiles are active: pro
+2021-09-04 17:48:13.175  WARN 18198 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-09-04 17:48:13.452  WARN 18198 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-04 17:48:13.727  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : Started BlogApplication in 2.268 seconds (JVM running for 2.759)
+2021-09-04 17:51:01.562  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : Starting BlogApplication using Java 1.8.0_211 on bogon with PID 18198 (/Users/li/blog/target/classes started by li in /Users/li/blog)
+2021-09-04 17:51:01.562  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : The following profiles are active: pro
+2021-09-04 17:51:01.960  WARN 18198 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-09-04 17:51:02.000  WARN 18198 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-04 17:51:02.115  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : Started BlogApplication in 0.585 seconds (JVM running for 171.146)
+2021-09-04 17:51:03.647  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : Starting BlogApplication using Java 1.8.0_211 on bogon with PID 18198 (/Users/li/blog/target/classes started by li in /Users/li/blog)
+2021-09-04 17:51:03.647  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : The following profiles are active: pro
+2021-09-04 17:51:03.835  WARN 18198 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-09-04 17:51:03.873  WARN 18198 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-04 17:51:03.958  INFO 18198 --- [restartedMain] com.lrm.blog.BlogApplication             : Started BlogApplication in 0.332 seconds (JVM running for 172.989)
+2021-09-04 17:52:37.163  INFO 18425 --- [restartedMain] com.lrm.blog.BlogApplication             : Starting BlogApplication using Java 1.8.0_211 on bogon with PID 18425 (/Users/li/blog/target/classes started by li in /Users/li/blog)
+2021-09-04 17:52:37.165  INFO 18425 --- [restartedMain] com.lrm.blog.BlogApplication             : The following profiles are active: pro
+2021-09-04 17:52:38.580  WARN 18425 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-09-04 17:52:38.861  WARN 18425 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-04 17:52:39.136  INFO 18425 --- [restartedMain] com.lrm.blog.BlogApplication             : Started BlogApplication in 2.306 seconds (JVM running for 2.818)
+2021-09-04 17:54:46.101  INFO 18538 --- [restartedMain] com.lrm.blog.BlogApplication             : Starting BlogApplication using Java 1.8.0_211 on bogon with PID 18538 (/Users/li/blog/target/classes started by li in /Users/li/blog)
+2021-09-04 17:54:46.103  INFO 18538 --- [restartedMain] com.lrm.blog.BlogApplication             : The following profiles are active: pro
+2021-09-04 17:54:47.546  WARN 18538 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-09-04 17:54:47.829  WARN 18538 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-04 17:54:48.118  INFO 18538 --- [restartedMain] com.lrm.blog.BlogApplication             : Started BlogApplication in 2.343 seconds (JVM running for 2.838)
+2021-09-04 18:29:11.288  WARN 18538 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m23s521ms).
+2021-09-04 18:48:21.339  WARN 18538 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s14ms).
+2021-09-04 19:05:07.927  WARN 18538 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m46s564ms).
+2021-09-04 19:22:06.467  WARN 18538 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m58s528ms).
